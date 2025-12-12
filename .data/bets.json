@@ -1,0 +1,137 @@
+[
+  {
+    "userId": "d6f91293-bd3c-47b6-948d-3f057414cd0d",
+    "eventId": "nfl-002",
+    "sport": "NFL",
+    "homeTeam": "Dallas Cowboys",
+    "awayTeam": "San Francisco 49ers",
+    "eventStartTime": "2025-12-13T22:01:35.503Z",
+    "market": "moneyline",
+    "pick": {
+      "kind": "moneyline",
+      "side": "away"
+    },
+    "americanOdds": -130,
+    "stakeCents": 2500,
+    "id": "e0e3af91-67b5-4d61-a4fb-b9a8dcaab502",
+    "placedAt": "2025-12-12T16:33:49.598Z",
+    "status": "settled",
+    "result": "win",
+    "profitCents": 1923,
+    "payoutCents": 4423,
+    "settledAt": "2025-12-12T16:39:13.088Z"
+  },
+  {
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "eventId": "nfl-002",
+    "sport": "NFL",
+    "homeTeam": "Dallas Cowboys",
+    "awayTeam": "San Francisco 49ers",
+    "eventStartTime": "2025-12-13T22:01:35.503Z",
+    "market": "spread",
+    "pick": {
+      "kind": "spread",
+      "side": "away",
+      "line": -2.5
+    },
+    "americanOdds": -105,
+    "stakeCents": 2500,
+    "id": "e0717427-6b88-47f9-b1b8-8f42bab5c28b",
+    "placedAt": "2025-12-12T16:36:26.119Z",
+    "status": "settled",
+    "result": "win",
+    "profitCents": 2381,
+    "payoutCents": 4881,
+    "settledAt": "2025-12-12T16:39:13.197Z"
+  },
+  {
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "eventId": "nfl-002",
+    "sport": "NFL",
+    "homeTeam": "Dallas Cowboys",
+    "awayTeam": "San Francisco 49ers",
+    "eventStartTime": "2025-12-13T22:01:35.503Z",
+    "market": "total",
+    "pick": {
+      "kind": "total",
+      "side": "over",
+      "line": 44.5
+    },
+    "americanOdds": -110,
+    "stakeCents": 10000,
+    "id": "9f32fb8e-d454-43bc-a3b8-3cad68c532dc",
+    "placedAt": "2025-12-12T16:36:33.858Z",
+    "status": "settled",
+    "result": "win",
+    "profitCents": 9091,
+    "payoutCents": 19091,
+    "settledAt": "2025-12-12T16:39:13.317Z"
+  },
+  {
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "eventId": "nba-001",
+    "sport": "NBA",
+    "homeTeam": "Miami Heat",
+    "awayTeam": "Boston Celtics",
+    "eventStartTime": "2025-12-13T02:01:35.503Z",
+    "market": "moneyline",
+    "pick": {
+      "kind": "moneyline",
+      "side": "away"
+    },
+    "americanOdds": -155,
+    "stakeCents": 25000,
+    "id": "050232bd-459b-4054-90ab-06bb7edadf69",
+    "placedAt": "2025-12-12T16:40:02.030Z",
+    "status": "settled",
+    "result": "win",
+    "profitCents": 16129,
+    "payoutCents": 41129,
+    "settledAt": "2025-12-12T16:41:15.772Z"
+  },
+  {
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "eventId": "nba-001",
+    "sport": "NBA",
+    "homeTeam": "Miami Heat",
+    "awayTeam": "Boston Celtics",
+    "eventStartTime": "2025-12-13T02:01:35.503Z",
+    "market": "total",
+    "pick": {
+      "kind": "total",
+      "side": "over",
+      "line": 214.5
+    },
+    "americanOdds": -112,
+    "stakeCents": 25000,
+    "id": "632b1da4-4b5e-45f5-a58b-0557898f4b20",
+    "placedAt": "2025-12-12T16:40:13.153Z",
+    "status": "settled",
+    "result": "loss",
+    "profitCents": 0,
+    "payoutCents": 0,
+    "settledAt": "2025-12-12T16:41:15.861Z"
+  },
+  {
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "eventId": "nfl-12a3af2ab8",
+    "sport": "NFL",
+    "homeTeam": "ravens",
+    "awayTeam": "cowgirls",
+    "eventStartTime": "2025-12-12T18:29:00.000Z",
+    "market": "moneyline",
+    "pick": {
+      "kind": "moneyline",
+      "side": "home"
+    },
+    "americanOdds": -110,
+    "stakeCents": 50000,
+    "id": "43be2b9a-0772-4d68-8d97-d3fe2e332a6d",
+    "placedAt": "2025-12-12T17:56:51.817Z",
+    "status": "settled",
+    "result": "loss",
+    "profitCents": 0,
+    "payoutCents": 0,
+    "settledAt": "2025-12-12T17:57:50.303Z"
+  }
+]

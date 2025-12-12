@@ -1,0 +1,485 @@
+[
+  {
+    "eventId": "nfl-001",
+    "sport": "NFL",
+    "awayTeam": "Kansas City Chiefs",
+    "homeTeam": "Buffalo Bills",
+    "eventStartTime": "2025-12-13T10:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -118,
+        "home": 102
+      },
+      "spread": {
+        "awaySpread": -1.5,
+        "awayOdds": -110,
+        "homeSpread": 1.5,
+        "homeOdds": -110
+      },
+      "total": {
+        "total": 47.5,
+        "overOdds": -108,
+        "underOdds": -112
+      }
+    },
+    "result": {
+      "homeScore": 100,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T16:38:39.525Z"
+    }
+  },
+  {
+    "eventId": "nfl-002",
+    "sport": "NFL",
+    "awayTeam": "San Francisco 49ers",
+    "homeTeam": "Dallas Cowboys",
+    "eventStartTime": "2025-12-13T22:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -130,
+        "home": 110
+      },
+      "spread": {
+        "awaySpread": -2.5,
+        "awayOdds": -105,
+        "homeSpread": 2.5,
+        "homeOdds": -115
+      },
+      "total": {
+        "total": 44.5,
+        "overOdds": -110,
+        "underOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 4,
+      "awayScore": 100,
+      "finishedAt": "2025-12-12T16:39:13.047Z"
+    }
+  },
+  {
+    "eventId": "nba-001",
+    "sport": "NBA",
+    "awayTeam": "Boston Celtics",
+    "homeTeam": "Miami Heat",
+    "eventStartTime": "2025-12-13T02:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -155,
+        "home": 130
+      },
+      "spread": {
+        "awaySpread": -3.5,
+        "awayOdds": -110,
+        "homeSpread": 3.5,
+        "homeOdds": -110
+      },
+      "total": {
+        "total": 214.5,
+        "overOdds": -112,
+        "underOdds": -108
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 125,
+      "finishedAt": "2025-12-12T16:41:15.731Z"
+    }
+  },
+  {
+    "eventId": "nba-002",
+    "sport": "NBA",
+    "awayTeam": "Los Angeles Lakers",
+    "homeTeam": "Golden State Warriors",
+    "eventStartTime": "2025-12-13T14:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": 120,
+        "home": -140
+      },
+      "spread": {
+        "awaySpread": 2.5,
+        "awayOdds": -110,
+        "homeSpread": -2.5,
+        "homeOdds": -110
+      },
+      "total": {
+        "total": 229.5,
+        "overOdds": -105,
+        "underOdds": -115
+      }
+    },
+    "result": {
+      "homeScore": 100,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T16:38:50.449Z"
+    }
+  },
+  {
+    "eventId": "mlb-001",
+    "sport": "MLB",
+    "awayTeam": "New York Yankees",
+    "homeTeam": "Boston Red Sox",
+    "eventStartTime": "2025-12-13T00:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -447,
+        "home": 110
+      },
+      "spread": {
+        "awaySpread": -1.5,
+        "awayOdds": 191,
+        "homeSpread": -3,
+        "homeOdds": -141
+      },
+      "total": {
+        "total": 8.5,
+        "overOdds": -158,
+        "underOdds": -195
+      }
+    },
+    "result": {
+      "homeScore": 4,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T18:41:53.571Z"
+    }
+  },
+  {
+    "eventId": "mlb-002",
+    "sport": "MLB",
+    "awayTeam": "Los Angeles Dodgers",
+    "homeTeam": "San Diego Padres",
+    "eventStartTime": "2025-12-13T18:01:35.503Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -227,
+        "home": 141
+      },
+      "spread": {
+        "awaySpread": -2,
+        "awayOdds": 425,
+        "homeSpread": 1,
+        "homeOdds": -116
+      },
+      "total": {
+        "total": 16,
+        "overOdds": -100,
+        "underOdds": -338
+      }
+    },
+    "result": {
+      "homeScore": 3,
+      "awayScore": 2,
+      "finishedAt": "2025-12-12T18:58:47.219Z"
+    }
+  },
+  {
+    "eventId": "ufc-001",
+    "sport": "UFC",
+    "awayTeam": "Alex Pereira",
+    "homeTeam": "Israel Adesanya",
+    "eventStartTime": "2025-12-14T08:01:35.503Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "moneyline": {
+        "away": -106,
+        "home": 282
+      },
+      "spread": {
+        "awaySpread": -7.5,
+        "awayOdds": -314,
+        "homeSpread": -1,
+        "homeOdds": 143
+      },
+      "total": {
+        "total": -2.5,
+        "overOdds": -231,
+        "underOdds": -228
+      }
+    }
+  },
+  {
+    "eventId": "ufc-002",
+    "sport": "UFC",
+    "awayTeam": "Jon Jones",
+    "homeTeam": "Tom Aspinall",
+    "eventStartTime": "2025-12-15T14:01:35.503Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "moneyline": {
+        "away": -330,
+        "home": 152
+      },
+      "spread": {
+        "awaySpread": 3,
+        "awayOdds": -123,
+        "homeSpread": -4.5,
+        "homeOdds": 221
+      },
+      "total": {
+        "total": 3,
+        "overOdds": 173,
+        "underOdds": -174
+      }
+    }
+  },
+  {
+    "eventId": "epl-001",
+    "sport": "EPL",
+    "awayTeam": "Arsenal",
+    "homeTeam": "Manchester City",
+    "eventStartTime": "2025-12-13T06:01:35.503Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "moneyline": {
+        "away": 306,
+        "home": -235
+      },
+      "spread": {
+        "awaySpread": -3.5,
+        "awayOdds": -282,
+        "homeSpread": 2,
+        "homeOdds": -118
+      },
+      "total": {
+        "total": -8,
+        "overOdds": -153,
+        "underOdds": -282
+      }
+    }
+  },
+  {
+    "eventId": "epl-002",
+    "sport": "EPL",
+    "awayTeam": "Liverpool",
+    "homeTeam": "Chelsea",
+    "eventStartTime": "2025-12-14T02:01:35.503Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "moneyline": {
+        "away": 140,
+        "home": 317
+      },
+      "spread": {
+        "awaySpread": -1.5,
+        "awayOdds": -206,
+        "homeSpread": -7,
+        "homeOdds": -255
+      },
+      "total": {
+        "total": 6,
+        "overOdds": -243,
+        "underOdds": -100
+      }
+    }
+  },
+  {
+    "eventId": "nba-20251212-efa62027d5",
+    "sport": "NBA",
+    "awayTeam": "Chicago Bulls",
+    "homeTeam": "Charlotte Hornets",
+    "eventStartTime": "2025-12-13T00:00:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "spread": {
+        "awaySpread": -3.5,
+        "homeSpread": 3.5,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T18:41:46.325Z"
+    }
+  },
+  {
+    "eventId": "nba-20251212-1bd65d110a",
+    "sport": "NBA",
+    "awayTeam": "Indiana Pacers",
+    "homeTeam": "Philadelphia 76ers",
+    "eventStartTime": "2025-12-13T00:00:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "spread": {
+        "awaySpread": 7,
+        "homeSpread": -7,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T18:41:49.502Z"
+    }
+  },
+  {
+    "eventId": "nba-20251212-0dbe57243e",
+    "sport": "NBA",
+    "awayTeam": "Utah Jazz",
+    "homeTeam": "Memphis Grizzlies",
+    "eventStartTime": "2025-12-13T01:00:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "spread": {
+        "awaySpread": 7.5,
+        "homeSpread": -7.5,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 241,
+      "awayScore": 123,
+      "finishedAt": "2025-12-12T18:42:13.993Z"
+    }
+  },
+  {
+    "eventId": "nba-20251212-8dd2618179",
+    "sport": "NBA",
+    "awayTeam": "Minnesota Timberwolves",
+    "homeTeam": "Golden State Warriors",
+    "eventStartTime": "2025-12-13T03:00:00.000Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "spread": {
+        "awaySpread": 1.5,
+        "homeSpread": -1.5,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    }
+  },
+  {
+    "eventId": "nba-20251212-6950eb5ea2",
+    "sport": "NBA",
+    "awayTeam": "Atlanta Hawks",
+    "homeTeam": "Detroit Pistons",
+    "eventStartTime": "2025-12-13T00:00:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "spread": {
+        "awaySpread": 7.5,
+        "homeSpread": -7.5,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T18:41:50.256Z"
+    }
+  },
+  {
+    "eventId": "nba-20251212-6461525db3",
+    "sport": "NBA",
+    "awayTeam": "Cleveland Cavaliers",
+    "homeTeam": "Washington Wizards",
+    "eventStartTime": "2025-12-13T00:00:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "spread": {
+        "awaySpread": -14.5,
+        "awayOdds": -107,
+        "homeSpread": 15.5,
+        "homeOdds": -125
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 0,
+      "finishedAt": "2025-12-12T18:41:50.707Z"
+    }
+  },
+  {
+    "eventId": "nba-20251212-5f0f1be98d",
+    "sport": "NBA",
+    "awayTeam": "Brooklyn Nets",
+    "homeTeam": "Dallas Mavericks",
+    "eventStartTime": "2025-12-13T01:30:00.000Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "spread": {
+        "awaySpread": 8.5,
+        "homeSpread": -8.5,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    }
+  },
+  {
+    "eventId": "nba-20251212-efa15c36a0",
+    "sport": "NBA",
+    "awayTeam": "Monumental Sports Network",
+    "homeTeam": "SiriusXMWFED 1500/106.7 The Fan",
+    "eventStartTime": "2025-12-13T00:00:00.000Z",
+    "eventStatus": "scheduled",
+    "odds": {
+      "spread": {
+        "awaySpread": -15,
+        "homeSpread": 15,
+        "awayOdds": -110,
+        "homeOdds": -110
+      }
+    }
+  },
+  {
+    "eventId": "nba-0e188c8a43",
+    "sport": "NBA",
+    "awayTeam": "New York Knicks",
+    "homeTeam": "Orlando Magic",
+    "eventStartTime": "2025-12-12T18:28:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": -110,
+        "home": -110
+      },
+      "spread": {
+        "awaySpread": 3.5,
+        "awayOdds": -110,
+        "homeSpread": -3.5,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 234,
+      "awayScore": 234,
+      "finishedAt": "2025-12-12T18:42:15.923Z"
+    }
+  },
+  {
+    "eventId": "nfl-12a3af2ab8",
+    "sport": "NFL",
+    "awayTeam": "cowgirls",
+    "homeTeam": "ravens",
+    "eventStartTime": "2025-12-12T18:29:00.000Z",
+    "eventStatus": "finished",
+    "odds": {
+      "moneyline": {
+        "away": 4,
+        "home": -110
+      },
+      "spread": {
+        "awaySpread": 3.5,
+        "awayOdds": -110,
+        "homeSpread": -3.5,
+        "homeOdds": -110
+      }
+    },
+    "result": {
+      "homeScore": 0,
+      "awayScore": 500,
+      "finishedAt": "2025-12-12T17:57:50.162Z"
+    }
+  }
+]

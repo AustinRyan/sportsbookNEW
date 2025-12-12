@@ -1,0 +1,144 @@
+[
+  {
+    "id": "ce39ad78-56f8-4b03-b97c-7380b2dd7782",
+    "userId": "d6f91293-bd3c-47b6-948d-3f057414cd0d",
+    "type": "bet_place",
+    "amountCents": -2500,
+    "balanceAfterCents": 97500,
+    "createdAt": "2025-12-12T16:33:49.639Z",
+    "meta": {
+      "betId": "e0e3af91-67b5-4d61-a4fb-b9a8dcaab502",
+      "eventId": "nfl-002",
+      "market": "moneyline",
+      "side": "away",
+      "americanOdds": -130
+    }
+  },
+  {
+    "id": "bfd33071-4a36-4d84-846a-503005982859",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_place",
+    "amountCents": -2500,
+    "balanceAfterCents": 97500,
+    "createdAt": "2025-12-12T16:36:26.170Z",
+    "meta": {
+      "betId": "e0717427-6b88-47f9-b1b8-8f42bab5c28b",
+      "eventId": "nfl-002",
+      "market": "spread",
+      "side": "away",
+      "americanOdds": -105
+    }
+  },
+  {
+    "id": "f76aa591-9322-445b-a552-d8433e3337fd",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_place",
+    "amountCents": -10000,
+    "balanceAfterCents": 87500,
+    "createdAt": "2025-12-12T16:36:33.904Z",
+    "meta": {
+      "betId": "9f32fb8e-d454-43bc-a3b8-3cad68c532dc",
+      "eventId": "nfl-002",
+      "market": "total",
+      "side": "over",
+      "americanOdds": -110
+    }
+  },
+  {
+    "id": "9c19da0e-8744-4d85-94b7-fbfb6cacd08f",
+    "userId": "d6f91293-bd3c-47b6-948d-3f057414cd0d",
+    "type": "bet_settle",
+    "amountCents": 4423,
+    "balanceAfterCents": 101923,
+    "createdAt": "2025-12-12T16:39:13.147Z",
+    "meta": {
+      "betId": "e0e3af91-67b5-4d61-a4fb-b9a8dcaab502",
+      "eventId": "nfl-002",
+      "result": "win"
+    }
+  },
+  {
+    "id": "81013e3e-3315-4e0d-8066-f6b1d9dd6256",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_settle",
+    "amountCents": 4881,
+    "balanceAfterCents": 92381,
+    "createdAt": "2025-12-12T16:39:13.311Z",
+    "meta": {
+      "betId": "e0717427-6b88-47f9-b1b8-8f42bab5c28b",
+      "eventId": "nfl-002",
+      "result": "win"
+    }
+  },
+  {
+    "id": "e1f20797-f90d-47a3-8510-1600511731e0",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_settle",
+    "amountCents": 19091,
+    "balanceAfterCents": 111472,
+    "createdAt": "2025-12-12T16:39:13.424Z",
+    "meta": {
+      "betId": "9f32fb8e-d454-43bc-a3b8-3cad68c532dc",
+      "eventId": "nfl-002",
+      "result": "win"
+    }
+  },
+  {
+    "id": "067a65e4-6722-4888-895c-d9a36bcfb2d8",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_place",
+    "amountCents": -25000,
+    "balanceAfterCents": 86472,
+    "createdAt": "2025-12-12T16:40:02.109Z",
+    "meta": {
+      "betId": "050232bd-459b-4054-90ab-06bb7edadf69",
+      "eventId": "nba-001",
+      "market": "moneyline",
+      "side": "away",
+      "americanOdds": -155
+    }
+  },
+  {
+    "id": "0cc52bc7-3b46-4dbb-9396-f60fa2f17325",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_place",
+    "amountCents": -25000,
+    "balanceAfterCents": 61472,
+    "createdAt": "2025-12-12T16:40:13.207Z",
+    "meta": {
+      "betId": "632b1da4-4b5e-45f5-a58b-0557898f4b20",
+      "eventId": "nba-001",
+      "market": "total",
+      "side": "over",
+      "americanOdds": -112
+    }
+  },
+  {
+    "id": "879f7fe4-caa6-40af-be05-b3db3b9bd2c4",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_settle",
+    "amountCents": 41129,
+    "balanceAfterCents": 102601,
+    "createdAt": "2025-12-12T16:41:15.799Z",
+    "meta": {
+      "betId": "050232bd-459b-4054-90ab-06bb7edadf69",
+      "eventId": "nba-001",
+      "result": "win"
+    }
+  },
+  {
+    "id": "a60863f6-d5d9-4cca-9524-e64fda1d620d",
+    "userId": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "type": "bet_place",
+    "amountCents": -50000,
+    "balanceAfterCents": 52601,
+    "createdAt": "2025-12-12T17:56:51.948Z",
+    "meta": {
+      "betId": "43be2b9a-0772-4d68-8d97-d3fe2e332a6d",
+      "eventId": "nfl-12a3af2ab8",
+      "market": "moneyline",
+      "side": "home",
+      "americanOdds": -110
+    }
+  }
+]

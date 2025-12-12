@@ -1,0 +1,35 @@
+[
+  {
+    "id": "475501fa-7df1-44bc-8ac1-36d727852812",
+    "email": "test@gmail.com",
+    "firstName": "test",
+    "lastName": "",
+    "displayName": "test",
+    "passwordHash": "$2b$10$xPjl/L0fXXByOsh1ttLYp.ENMMXSsTa0rK1eg3bpWIhPOEk.kpUwC",
+    "balanceCents": 52601,
+    "isAdmin": false,
+    "createdAt": "2025-12-12T15:46:25.701Z"
+  },
+  {
+    "id": "f0e69c2c-2d27-40f7-bab7-96c6872a062c",
+    "email": "test2@gmail.com",
+    "firstName": "test2",
+    "lastName": "",
+    "displayName": "test2",
+    "passwordHash": "$2b$10$zA7wS24.FMKj9gabk8UBu.DksXr1SC/KRENUJJEQKevcGpbYFX9uu",
+    "balanceCents": 100000,
+    "isAdmin": false,
+    "createdAt": "2025-12-12T15:52:11.325Z"
+  },
+  {
+    "id": "d6f91293-bd3c-47b6-948d-3f057414cd0d",
+    "email": "admin@test.com",
+    "firstName": "Admin",
+    "lastName": "User",
+    "displayName": "Admin User",
+    "passwordHash": "$2b$10$qHVfeqhk/aHuv1vkl4EDpO9BY0YRTLMxhXvYJSCcP80zKvAEgBokK",
+    "balanceCents": 101923,
+    "isAdmin": true,
+    "createdAt": "2025-12-12T16:21:25.567Z"
+  }
+]
