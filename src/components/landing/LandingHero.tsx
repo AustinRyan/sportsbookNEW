@@ -28,7 +28,7 @@ export default function LandingHero() {
         </div>
 
         <div className="mt-10 grid gap-10 lg:grid-cols-2 lg:items-center">
-          <div>
+          <div className="min-w-0">
             <div className="text-sm text-[color:var(--muted)]">
                Build using React + TanStack • Local persistence
             </div>
@@ -37,7 +37,7 @@ export default function LandingHero() {
               <DropText text="Sportsbook" />
             </h1>
 
-            <p className="mt-5 max-w-xl text-base sm:text-lg text-[color:var(--muted)] leading-relaxed">
+            <p className="mt-5 max-w-full sm:max-w-xl text-base sm:text-lg text-[color:var(--muted)] leading-relaxed">
               A fake‑money book that feels real: live-ish odds refresh, a sticky bet slip,
               and a full admin desk for outcomes + settlement.
             </p>
@@ -71,7 +71,7 @@ export default function LandingHero() {
             </div>
           </div>
 
-          <div className="relative sm:mx-auto sm:max-w-xl lg:max-w-none">
+          <div className="relative min-w-0 w-full sm:max-w-xl sm:justify-self-center lg:max-w-none">
             <div className="carousel">
               <CarouselCard
                 slot="1"

@@ -188,19 +188,19 @@
     "eventStatus": "scheduled",
     "odds": {
       "moneyline": {
-        "away": -106,
-        "home": 282
+        "away": -117,
+        "home": 324
       },
       "spread": {
-        "awaySpread": -7.5,
-        "awayOdds": -314,
-        "homeSpread": -1,
-        "homeOdds": 143
+        "awaySpread": -7,
+        "awayOdds": -308,
+        "homeSpread": 0,
+        "homeOdds": 149
       },
       "total": {
-        "total": -2.5,
-        "overOdds": -231,
-        "underOdds": -228
+        "total": -2,
+        "overOdds": -277,
+        "underOdds": -182
       }
     }
   },
@@ -213,19 +213,19 @@
     "eventStatus": "scheduled",
     "odds": {
       "moneyline": {
-        "away": -330,
-        "home": 152
+        "away": -376,
+        "home": 130
       },
       "spread": {
         "awaySpread": 3,
-        "awayOdds": -123,
-        "homeSpread": -4.5,
-        "homeOdds": 221
+        "awayOdds": -100,
+        "homeSpread": -2.5,
+        "homeOdds": 261
       },
       "total": {
-        "total": 3,
-        "overOdds": 173,
-        "underOdds": -174
+        "total": 4,
+        "overOdds": 100,
+        "underOdds": -290
       }
     }
   },
@@ -238,19 +238,19 @@
     "eventStatus": "scheduled",
     "odds": {
       "moneyline": {
-        "away": 306,
-        "home": -235
+        "away": 317,
+        "home": -224
       },
       "spread": {
-        "awaySpread": -3.5,
-        "awayOdds": -282,
-        "homeSpread": 2,
-        "homeOdds": -118
+        "awaySpread": -3,
+        "awayOdds": -367,
+        "homeSpread": 4,
+        "homeOdds": -111
       },
       "total": {
-        "total": -8,
-        "overOdds": -153,
-        "underOdds": -282
+        "total": -8.5,
+        "overOdds": -111,
+        "underOdds": -325
       }
     }
   },
@@ -263,19 +263,19 @@
     "eventStatus": "scheduled",
     "odds": {
       "moneyline": {
-        "away": 140,
-        "home": 317
+        "away": 124,
+        "home": 338
       },
       "spread": {
-        "awaySpread": -1.5,
-        "awayOdds": -206,
-        "homeSpread": -7,
-        "homeOdds": -255
+        "awaySpread": -2.5,
+        "awayOdds": -215,
+        "homeSpread": -8.5,
+        "homeOdds": -246
       },
       "total": {
-        "total": 6,
-        "overOdds": -243,
-        "underOdds": -100
+        "total": 7.5,
+        "overOdds": -289,
+        "underOdds": -114
       }
     }
   },

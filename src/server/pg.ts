@@ -15,10 +15,17 @@ function getDbUrl() {
 }
 
 export function hasPostgres() {
-  // Make DB opt-in so local dev can't accidentally break if the environment has unrelated POSTGRES_* vars.
-  // Set `USE_POSTGRES=1` to enable.
-  if (!process.env.USE_POSTGRES) return false
-  return Boolean(getDbUrl())
+  const url = getDbUrl()
+  if (!url) return false
+
+  // Prefer explicit local control
+  const flag = (process.env.USE_POSTGRES ?? '').toLowerCase()
+  if (flag) return !['0', 'false', 'no', 'off'].includes(flag)
+
+  // On Vercel, if a Postgres URL is present, use it by default to avoid EROFS writes.
+  if (process.env.VERCEL) return true
+
+  return false
 }
 
 declare global {

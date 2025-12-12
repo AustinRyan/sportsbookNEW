@@ -52,7 +52,7 @@ This app now supports a **Postgres-backed JSON store** so persistence works in p
    - `DATABASE_URL`, or
    - `POSTGRES_URL` (Vercel Postgres provides this)
 3. Enable DB mode:
-   - `USE_POSTGRES=1`
+   - `USE_POSTGRES=1` (optional; in production on Vercel, Postgres will auto-enable if a Postgres URL is present)
 3. Deploy.
 
 On first use, the server will auto-create a table:
