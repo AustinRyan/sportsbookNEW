@@ -23,7 +23,7 @@ export default function LandingHero() {
       <div className="w-full px-4 sm:px-6 py-10 sm:py-14 md:py-20">
         <div className="flex items-center justify-between gap-3">
           <div className="beam-pill px-4 py-2 text-[10px] sm:text-xs tracking-[0.22em] text-[color:var(--muted)] uppercase">
-            Fake money only • Real odds logic • Instant settlement
+            Fake money only • Real odds logic and Instant settlement
           </div>
         </div>
 
