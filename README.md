@@ -58,6 +58,18 @@ This app now supports a **Postgres-backed JSON store** so persistence works in p
 On first use, the server will auto-create a table:
 - `kv_store (key text primary key, value jsonb, updated_at timestamptz)`
 
+### Fixing Vercel 404 (SSR needs a serverless entry)
+
+This app is **SSR**. There is no `index.html` in `dist/client`, so you must deploy a serverless handler to render routes.
+
+This repo includes:
+- `api/index.ts`: a Vercel Node Function that forwards requests to the built Start server (`dist/server/server.js`)
+- `vercel.json`: routes all non-static requests to `/api/index`
+
+In Vercel:
+1. Set the **Root Directory** to this app folder (the one containing `package.json`).
+2. Deploy (Vercel will run `npm run build`).
+
 ### Local dev with the same DB
 
 You can point local dev at the same Postgres URL:
